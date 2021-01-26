@@ -36,3 +36,6 @@ ButtonAction &amp; LabelOutlet
 
     }
 
+2. snapshot.
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_1/main/before_click.png)
