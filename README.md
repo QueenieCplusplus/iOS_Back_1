@@ -39,3 +39,14 @@ ButtonAction &amp; LabelOutlet
 2. snapshot.
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_1/main/before_click.png)
+
+
+3. iOS' hot key.
+
+   * UI Object Lib:
+    
+          cmd + shift + L
+       
+   * Double View for storyboard and Code:
+   
+          ctrl + opt + cmd + enter 
