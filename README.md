@@ -54,3 +54,7 @@ ButtonAction &amp; LabelOutlet
    * Double View for storyboard and Code:
    
           ctrl + opt + cmd + enter 
+          
+   * drag UI element on Storyboard as Variable in Code:
+   
+          two fingers on Mac mouse.
